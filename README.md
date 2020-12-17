@@ -169,6 +169,7 @@ Development:
 - [Lennart Czienskowski](https://github.com/lencz)
 - [Elin Forsnor](https://github.com/elinforsnor)
 - [Felix Morau](https://github.com/femosc2)
+- [Milo Bengtsson](https://github.com/palladog)
 
 ## License
 
